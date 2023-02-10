@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tranandrew21
-- 👀 I’m interested in ... Full Stack Developing
+- 👀 I’m interested in ... Backend Development
 - 🌱 I’m currently learning ... Python3, C++, and more.
-- 💞️ I’m looking to collaborate on ... Websites, programs, games.
+- 💞️ I’m looking to collaborate on ... Websites, programs, databases.
 - 📫 How to reach me ...
 
 <!---
