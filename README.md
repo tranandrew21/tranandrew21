@@ -41,7 +41,7 @@ I’m passionate about building secure, efficient, and user-friendly systems. My
 
 ### 📫 How to Reach Me
 📧 **Email:** tranandrew21@example.com  
-💼 **LinkedIn:** [linkedin.com/in/andrew-tran21](https://linkedin.com/in/andrew-tran21)  
+💼 **LinkedIn:** [linkedin.com/in/andrew-tran21](https://www.linkedin.com/in/andrew-tran-11164b223/)  
 🌍 **GitHub:** [github.com/tranandrew21](https://github.com/tranandrew21)
 
 ---
